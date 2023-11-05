@@ -1,2 +1,3 @@
 # HTML_CSS_JS
-Highlights my Key Skills
+
+These contain HTML, CSS & JS.
